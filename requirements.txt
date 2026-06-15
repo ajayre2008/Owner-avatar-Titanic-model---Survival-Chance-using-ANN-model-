@@ -7,4 +7,3 @@ tensorflow
 tensorboard
 streamlit
 ipykernel   
-pickle
